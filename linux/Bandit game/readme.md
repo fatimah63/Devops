@@ -153,7 +153,7 @@
 **Level 14-15**  
 - **Commands**:  
   So I already have the password for bandit 14 (`MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS`).  
-  I did `nc localhost 3000`, not realizing it was 30,000 instead of 3000.  
+  I did `nc localhost 3000`, not realising it was 30,000 instead of 3000.  
   I corrected it and did `nc localhost 30000`, which then gave me a blank line.  
   I entered the password for level 14 here, and it gave me this password:  
   `8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo`.
