@@ -17,7 +17,7 @@ The first line in a script should be:
 This tells the system to use Bash to execute the script. The **shebang (`#!`)** allows you to specify different interpreters, e.g., `/usr/bin/python` for Python scripts.
 
 ### Making the Script Executable
-To make your script executable, use:
+- To make your script executable, use:
 
 ```bash
 chmod +x yourscript.sh
