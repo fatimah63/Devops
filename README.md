@@ -1,8 +1,4 @@
-# 🌱 DevOps Journey
-<!-- Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/99184393/189549864-1c1b27e3-f69b-45c2-9787-2a4396fbb4b0.png" alt="Welcome Banner" width="100%"/>
-</p>
+# 🌱 DevOps Journeyg
 
 <h1 align="center">🚀 Hi, I'm Fatima </h1>
 
