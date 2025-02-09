@@ -1,4 +1,4 @@
-# 🌱 DevOps Journeyg
+# 🌱 DevOps Journey
 
 <h1 align="center">🚀 Hi, I'm Fatima </h1>
 
