@@ -4,7 +4,9 @@
 This guide outlines the steps taken to set up an EC2 instance running NGINX on port 80, then configure Cloudflare to point the custom domain **fatimayusuf.uk** to the EC2 instance. The result is access to the NGINX webpage via a subdomain like **nginx.fatimayusuf.uk**.
 
 
+
 ![Screenshot](../images/Screenshot%202025-03-02%20at%2010.09.48.png)
+
 
 
 ---
