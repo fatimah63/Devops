@@ -1,7 +1,7 @@
 # **Terraform 📂**  
 
 ## **Overview 📌**  
-This serves as a dedicated space for **Terraform-related documentation, notes, and best practices**. 
+This serves as a dedicated space for **Terraform-related documentation, notes, and projects I've worked on**. 
 
 ## **Purpose 🎯**  
 This repository is designed to:  
